@@ -68,7 +68,7 @@
                                 class="btn btn-primary" data-bs-toggle="smooth-scroll">Download</a>
 
                             <div class="ms-3">
-                                <a class="text-primary d-flex align-items-center" href="https://youtu.be/5Z3Q3qg3Z5E">
+                                <a class="text-primary d-flex align-items-center" href="https://youtu.be/EsXdDkToryA">
                                     <span type="button"
                                         class="btn btn-soft-primary btn-rounded-circle btn-icon me-2 shadow-none">
                                         <i class="icon-xxs icon-dual-primary align-self-center" data-feather="play"></i>
@@ -364,7 +364,7 @@
                             </p>
 
                             <div class="px-2 mt-3">
-                                <img src="./assets/images/features/app4.png" alt="" class="img-fluid mt-2" />
+                                <img src="./assets/images/features/app5.png" alt="" class="img-fluid mt-2" />
                             </div>
                         </div>
                     </div>
