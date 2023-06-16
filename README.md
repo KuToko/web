@@ -1,6 +1,6 @@
 # KuToko User Panel Repository
 
-This repository contains the user panel for the KuToko platform, built using Laravel and FilamentPHP.
+This repository contains the user panel for the KuToko platform, built using Laravel.
 
 ## Requirements
 - PHP 8.1 or higher
